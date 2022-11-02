@@ -1,6 +1,6 @@
 {
-    "name": "@seven/pipedream",
-    "version": "0.0.1",
+    "name": "@seven.io/pipedream",
+    "version": "0.1.0",
     "description": "Pipedream seven Components",
     "keywords": [
         "pipedream",
