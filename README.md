@@ -1,4 +1,4 @@
-![](https://seven.io/seven_outline_white.svg "sms77 Logo")
+![](https://www.seven.io/wp-content/uploads/Logo.svg "seven Logo")
 
 A collection of Pipedream actions for seven.
 
@@ -10,10 +10,11 @@ git clone https://github.com/seven-io/pipedream-component
 
 ```shell
 pd publish ./actions/send-sms/send-sms.mjs
-```
-
-```shell
 pd publish ./actions/tts-call/tts-call.mjs
+pd publish ./actions/lookup-cnam/lookup-cnam.mjs
+pd publish ./actions/lookup-format/lookup-format.mjs
+pd publish ./actions/lookup-hlr/lookup-hlr.mjs
+pd publish ./actions/lookup-mnp/lookup-mnp.mjs
 ```
 
 ### Set API Key
@@ -24,6 +25,6 @@ configuring the actions.
 
 ## Support
 
-Need help? Feel free to [contact us](https://www.sms77.io/en/company/contact).
+Need help? Feel free to [contact us](https://www.seven.io/en/company/contact).
 
 [![MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
