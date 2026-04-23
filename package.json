@@ -11,7 +11,7 @@
     "author": "seven communications GmbH & Co. KG <support@seven.io> (https://www.seven.io/)",
     "license": "MIT",
     "dependencies": {
-        "node-fetch": "^2.6.13",
+        "node-fetch": "^3.3.2",
         "sms77-client": "^2.26.0"
     },
     "publishConfig": {
